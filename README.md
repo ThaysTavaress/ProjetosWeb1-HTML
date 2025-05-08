@@ -13,7 +13,7 @@
 Esse repositório tem o dever de reunir os sete projetos de <b>Desenvolvimento Web 1</b>, cada projeto aborda diferentes conceitos apenas usando a linguagem de marcação, <b>HTML</b>.
 
 <figure>
-    <img src="img/HTML.png" width="120" height="75">
+    <img src="img/HTML.png" width="80" height="85">
 </figure>
 
 ## Contato 
