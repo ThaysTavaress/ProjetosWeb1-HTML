@@ -16,7 +16,7 @@ Esse repositório tem o dever de reunir os sete projetos de <b>Desenvolvimento W
     <img src="img/HTML.png" width="80" height="85">
 </figure>
 
-## Contato 
-Email: thaystavares@aluno.ifce.edu.br
+## Contatos
+Email: thaystavares@aluno.ifce.edu.br | ester.rodrigues
 
-Telefone: (85) 92161-4552
+Telefone: (85) 92161-4552 |
